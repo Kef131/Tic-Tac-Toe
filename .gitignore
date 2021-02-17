@@ -1,0 +1,34 @@
+# Project exclude paths
+/.gradle/
+/Problems/Counting/out/
+/Problems/Counting/out/production/classes/
+/Problems/Create an euphonious word/out/
+/Problems/Create an euphonious word/out/production/classes/
+/Problems/Evaluate an expression/out/
+/Problems/Evaluate an expression/out/production/classes/
+/Problems/Evaluate an expression (1)/out/
+/Problems/Evaluate an expression (1)/out/production/classes/
+/Problems/Getting letters from the Alphabet/out/
+/Problems/Getting letters from the Alphabet/out/production/classes/
+/Problems/Individual taxes/out/
+/Problems/Individual taxes/out/production/classes/
+/Problems/Knights, merchants, and robbers/out/
+/Problems/Knights, merchants, and robbers/out/production/classes/
+/Problems/Palindrome/out/
+/Problems/Palindrome/out/production/classes/
+/Problems/Piece of alphabet/out/
+/Problems/Piece of alphabet/out/production/classes/
+/Problems/Placement of ships/out/
+/Problems/Placement of ships/out/production/classes/
+/Problems/The first position of the largest element/out/
+/Problems/The first position of the largest element/out/production/classes/
+/Problems/The length of the sequence/out/
+/Problems/The length of the sequence/out/production/classes/
+/Problems/The max of two numbers without else-branch/out/
+/Problems/The max of two numbers without else-branch/out/production/classes/
+/Problems/True captain/out/
+/Problems/True captain/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
+/Tic-Tac-Toe/task/out/test/classes/
